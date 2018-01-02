@@ -1,2 +1,5 @@
 # Hello-World
-just a practise
+
+Hi Team,
+
+We are going to learn angular2.
